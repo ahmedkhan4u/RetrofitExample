@@ -9,6 +9,7 @@ import android.util.Log;
 import android.widget.TextView;
 
 import com.softrasol.retrofitexample.Adapters.CustomAdapter;
+import com.softrasol.retrofitexample.Interface.ApiInterface;
 import com.softrasol.retrofitexample.Models.UserDataModel;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.softrasol.retrofitexample;
+package com.softrasol.retrofitexample.Interface;
 
 import com.softrasol.retrofitexample.Models.UserDataModel;
 
